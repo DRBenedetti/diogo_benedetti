@@ -1,0 +1,37 @@
+[CABEÇALHO]
+
+LOGO.	HOME, REDES SOCIAIS, TRABALHOS
+
+[FOTO DO ROSTO]
+
+[TEXTO]
+
+Diogo Benedetti
+
+Olá (emoji)! Sou programador com experiência em Python e JavaScript, e também atuo como web designer. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), desenvolvendo sites modernos e responsivos, focados na melhor experiência do usuário.
+
+
+[PARALAX IMAGEM DE PROGRAMAÇÃO]
+
+[LISTA DE CURSOS COM IMAGEM DAS INSTITUIÇÕES]
+
+Cursos
+
+	Análise e Desenvolvimento de Sistemas (ADS) – Uniasselvi
+	Python – Curso em Vídeo
+	HTML5 & CSS3 (Módulos 1 a 5) – Curso em Vídeo
+	JavaScript – Curso em Vídeo
+	Montagem e manutenção de computadores - New Life
+
+[PARALAX IMAGEM DE PROGRAMAÇÃO]
+
+
+[IDIOMAS - IMAGEM DA BANDEIRAS]
+
+	INGLES BASICO
+
+	ALEMÂO BASICO
+
+[FOOTER]
+
+Site feito por Diogo Benedetti

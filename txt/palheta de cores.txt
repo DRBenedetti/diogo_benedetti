@@ -1,0 +1,8 @@
+cores: do mais escuro ou mais claro
+tirada do favicon DiB
+
+#0D0D0D
+#023859
+#0367A6
+#0487D9
+#0597F2
