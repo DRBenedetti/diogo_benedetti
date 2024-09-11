@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'goodtimesrg';
+    src: url('../fonts/goodtimesrg.otf') format('opentype');
+}
+
+:root {
+    --cor0: #0D0D0D;
+    --cor1: #023859;
+    --cor2: #0367A6;
+    --cor3: #0487D9;
+    --cor4: #0597F2;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: forestgreen;
+}
+
+header {
+    background-color: var(--cor0);
+    color: white;
+    box-shadow: 0px 3px 10px black;
+    
+}
+
+.nav_bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 6rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav_list {
+    display: flex;
+    align-items: center;
+}
+
+.nav_list ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+.nav_item {
+    margin: 0 15px;
+}
+
+.nav_link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+    font-weight: 400;
+}
+
+.login_button button{
+    border: none;
+    background-color: var(--cor2);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.login_button button a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    
+}
