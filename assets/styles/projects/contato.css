@@ -1,0 +1,45 @@
+.contato-section {
+  padding: 40px;
+  background-color: #f5f5f5;
+}
+
+.contato-titulo {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.contato-container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.contato-descricao {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+.email-texto {
+  font-weight: bold;
+  color: #333;
+  user-select: all;
+}
+
+.contato-botoes {
+  margin-top: 10px;
+}
+
+.botao-whatsapp {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: #25D366;
+  transition: background-color 0.3s ease;
+}
+
+.botao-whatsapp:hover {
+  background-color: #1da851;
+}
